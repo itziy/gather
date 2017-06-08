@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Created by PhpStorm.
@@ -186,4 +185,3 @@ function myjavainn_languageId($lId)
 
     return 7;
 }
->>>>>>> 2cb60c05ebd0aa660fb3ee7525cc77a9f127d040
