@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 /**
@@ -764,4 +763,3 @@ function mkDirs($dir)
     }
     return true;
 }
->>>>>>> 2cb60c05ebd0aa660fb3ee7525cc77a9f127d040
